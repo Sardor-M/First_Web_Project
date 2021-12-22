@@ -1,2 +1,2 @@
-# fisrt-web-project
+# Web project 
 my first project 
