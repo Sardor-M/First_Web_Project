@@ -1,4 +1,4 @@
-# Web project 
+# First_Web_Project 
 
 Flick.com is a commercial website designed for  selling and buying books from the e store.  
 
@@ -7,3 +7,7 @@ Flick.com is a commercial website designed for  selling and buying books from th
  - HTML
  - CSS
  - Javascript 
+
+### License 
+
+Distributed under the MIT license. See the `LICENSE.txt` for more information. 
